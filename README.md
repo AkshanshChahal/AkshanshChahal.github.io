@@ -1,6 +1,11 @@
-## This site is under construction
+## About me
+I am a final year B.Tech Student in Computer Science Department at Indian Institute of Technology, Delhi.
 
+My research interests lie in Machine Learning and its applications. I aim to help society and make an impact using ML & AI technologies.
+
+<!---
 You can use the [editor on GitHub](https://github.com/AkshanshChahal/AkshanshChahal.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+-->
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
