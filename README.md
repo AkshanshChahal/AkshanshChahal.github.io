@@ -3,6 +3,8 @@ I am a final year B.Tech Student in Computer Science Department at Indian Instit
 
 My research interests lie in Machine Learning and its applications. I aim to help society and make an impact using ML & AI technologies.
 
+I love playing badminton and watching cricket.
+
 <!---
 You can use the [editor on GitHub](https://github.com/AkshanshChahal/AkshanshChahal.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
