@@ -6,6 +6,7 @@ My research interests lie in Machine Learning and its applications. I aim to hel
 I love playing badminton and watching cricket.
 
 My Github Profile [github/AkshanshChahal](https://github.com/AkshanshChahal) 
+
 My LinkedIn Profile [linkedin/akshanshchahal](www.linkedin.com/in/akshanshchahal)
 
 <!---
