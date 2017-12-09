@@ -1,0 +1,118 @@
+html {
+	/*background-image: url(file:///Users/macbook/Documents/Website/AKC/assets/img/macbook1.jpg);
+	background-size: cover;*/
+}
+
+body {
+	color:white;
+	padding: 0;
+    margin: 0;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    height: 100%;
+}
+
+.hello {
+	font-size: 30px;
+	font-weight: 400;
+}
+
+.hello2 {
+	font-size: 24px;
+	font-weight: 300;
+}
+
+.header {
+    display: table;
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
+.img-src {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+    /*-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    */
+    background-size: cover;
+    z-index: -10;
+    background-color: #222;
+}
+
+.vert-text {
+    color: #fff;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    opacity: .9;
+}
+
+.vert-text h1 {
+    padding: 0;
+    margin: 0;
+    font-size: 4.5em;
+    font-weight: 700;
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+}
+
+img {
+    vertical-align: middle;
+}
+
+.dp {
+    height: 240px;
+    width: 240px;
+    border-radius: 50%;
+    margin-top: 60px;
+    border: 3px solid #fff;
+}
+
+#overlay{
+	opacity:0.7;
+	position:fixed;
+	width:100%;
+	height:100%;
+	overflow:auto;
+	z-index:-1;
+	background-color: black;
+}
+
+
+.image {
+    width: 240px;
+    height: 240px
+    border-width: 6px;
+    border-style: solid
+    border-color: white;
+    border-radius: 100%;
+    margin-top: -60px
+    vertical-align: middle;
+}
+
+#name {
+	margin-top: 0;
+    margin-bottom: 0.1rem
+}
+@media screen and (min-width: 64em) {#name {font-size: 3.25rem}}
+@media screen and (min-width: 42em) and (max-width: 64em) { #name {font-size: 2.25rem}}
+@media screen and (max-width: 42em) {#name {font-size: 1.75rem}}
+
+
+
+.page-header {
+    text-align: center;
+}
+@media screen and (min-width: 64em) {.page-header {padding: 5rem 6rem}}
+@media screen and (min-width: 42em) and (max-width: 64em) {.page-header {padding: 3rem 4rem}}
+@media screen and (max-width: 42em) {.page-header {padding: 2rem 1rem}}
+
+
