@@ -9,6 +9,8 @@ My Github Profile is [github/AkshanshChahal](https://github.com/AkshanshChahal)
 
 My LinkedIn Profile is [linkedin/akshanshchahal](www.linkedin.com/in/akshanshchahal)
 
+My Kaggle Profile is [kaggle/akshanshchahal](https://www.kaggle.com/akshanshchahal)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
