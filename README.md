@@ -11,6 +11,13 @@ My LinkedIn Profile is [linkedin/akshanshchahal](www.linkedin.com/in/akshanshcha
 
 My Kaggle Profile is [kaggle/akshanshchahal](https://www.kaggle.com/akshanshchahal)
 
+My FB profile
+
+My CV/Resume
+
+My Quora
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
