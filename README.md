@@ -17,6 +17,10 @@ My CV/Resume
 
 My Quora
 
+##### Contact me
+- email
+- phone number
+- FB ?
 
 ### Markdown
 
