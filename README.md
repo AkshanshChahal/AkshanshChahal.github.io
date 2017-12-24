@@ -11,8 +11,6 @@ My LinkedIn Profile is [linkedin/akshanshchahal](www.linkedin.com/in/akshanshcha
 
 My Kaggle Profile is [kaggle/akshanshchahal](https://www.kaggle.com/akshanshchahal)
 
-My FB profile
-
 My CV/Resume
 
 My Quora
@@ -20,7 +18,7 @@ My Quora
 ### Contact me
 - email
 - phone number
-- FB ?
+- FB #This shouldn't come in the professional profiles
 
 ### Markdown
 
