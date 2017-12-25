@@ -3,7 +3,7 @@ I am a final year B.Tech Student in Computer Science Department at Indian Instit
 
 My research interests lie in Machine Learning and its applications. I aim to help society and make an impact using ML & AI technologies.
 
-I love playing badminton and watching cricket.
+I love playing badminton and watching cricket. I also an avid music lover. One of my goals in near future is to compose music.
 
 My Github Profile is [github/AkshanshChahal](https://github.com/AkshanshChahal) 
 
