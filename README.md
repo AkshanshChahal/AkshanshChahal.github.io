@@ -36,6 +36,7 @@ Syntax highlighted code block
 - Bulleted
 - List
     - list item
+    - item 2
 
 1. Numbered
 2. List
