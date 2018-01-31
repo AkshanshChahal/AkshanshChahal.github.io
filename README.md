@@ -21,6 +21,7 @@ My Projects ... (With reports ...)
 - email
 - phone number
 - FB <!--This shouldn't come in the professional profiles-->
+- Twitter
 
 ### Markdown
 
