@@ -22,6 +22,7 @@ My Projects ... (With reports ...)
 - phone number
 - FB <!--This shouldn't come in the professional profiles-->
 - Twitter
+- Instagram
 
 ### Markdown
 
