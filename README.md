@@ -5,17 +5,13 @@ My research interests lie in Machine Learning and its applications. I aim to hel
 
 I love playing badminton and watching cricket. I also an avid music lover. One of my goals in near future is to compose music.
 
-My Github Profile is [github/AkshanshChahal](https://github.com/AkshanshChahal) 
-
-My LinkedIn Profile is [linkedin/akshanshchahal](www.linkedin.com/in/akshanshchahal)
-
-My Kaggle Profile is [kaggle/akshanshchahal](https://www.kaggle.com/akshanshchahal)
-
-My CV/Resume
-
-My Quora
-
-My Projects ... (With reports ...)
+- My Github Profile is [github/AkshanshChahal](https://github.com/AkshanshChahal) 
+- My LinkedIn Profile is [linkedin/akshanshchahal](www.linkedin.com/in/akshanshchahal)
+- My Kaggle Profile is [kaggle/akshanshchahal](https://www.kaggle.com/akshanshchahal)
+- My CV/Resume
+- My Quora
+- My Projects ... (With reports ...)
+    - subsections ..
 
 ### Contact me
 - email
