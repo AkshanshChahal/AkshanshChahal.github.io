@@ -12,6 +12,7 @@ I love playing badminton and watching cricket. I also an avid music lover. One o
 - My Quora
 - My Projects ... (With reports ...)
     - subsections ..
+    - Course Projects
 
 ### Contact me
 - email
